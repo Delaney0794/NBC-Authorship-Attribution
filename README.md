@@ -1,1 +1,3 @@
-# Senior-Sem
+## Naive Bayes Classifier Authorship Attribution
+  This project uses a Naive Bayes Classifier in an attempt to determine authorship. It uses a variety of features covering phonetics, sytnax, and readability. This was originally part of my senior seminar project, but I am continuing to work on it. Since finishing the class, I have improved the accuracy from .54 to .73 by qualifying the returned values by each of the functions.
+  The data that this project is currently using is the books of Matthew and John from the KJV Bible. I am hoping to eventually scale this project to the entire New Testament to attempt to determine an author for Hebrews.
